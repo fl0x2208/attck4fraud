@@ -7,12 +7,8 @@ Principles of MITRE ATT&amp;CK in the fraud domain. The framwork is divided in s
 | Spear Phishing | Account-Checking Services | Business Email Compromise | Compromised account credentials | Fund Transfer | Money Mules |
 | Vishing | ATM Black Box Attack | Scam | Compromised Personally Identifiable Information (PII) | Cryptocurrency exchange | Fund Transfer |
 | Social Media Scams |  | CxO Fraud | Compromised Intellectual Property (IP) |  | Prepaid Cards |
-| Smishing |  |  |  |  | Resell Stolen Data | 
+| Smishing |  | Identity Takeover |  |  | Resell Stolen Data | 
 | ATM Skimming |  |  |  |  | ATM Explosive Attack |
-| ATM Shimming |  |  |  |  |  |
+| ATM Shimming |  |  |  |  | Purchase of Goods |
 | POS Skimming |  |  |  |  |  |
-
-Candidates for future inclusion:
- * Telecom Fraud
- * Letter of Credit Fraud
- * SIM Swap (TA: Target Compromise)
+| Stealing Documents |  |  |  |  |  |
